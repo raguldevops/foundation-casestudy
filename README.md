@@ -1,1 +1,2 @@
-# foundation-casestudy
+# TomcatMavenApp
+Sample Tomcat Maven App
